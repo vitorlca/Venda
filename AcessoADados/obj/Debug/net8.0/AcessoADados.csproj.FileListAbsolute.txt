@@ -1,0 +1,4 @@
+C:\Users\vitor\source\repos\Venda\AcessoADados\obj\Debug\net8.0\AcessoADados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\source\repos\Venda\AcessoADados\obj\Debug\net8.0\AcessoADados.AssemblyInfoInputs.cache
+C:\Users\vitor\source\repos\Venda\AcessoADados\obj\Debug\net8.0\AcessoADados.AssemblyInfo.cs
+C:\Users\vitor\source\repos\Venda\AcessoADados\obj\Debug\net8.0\AcessoADados.csproj.CoreCompileInputs.cache

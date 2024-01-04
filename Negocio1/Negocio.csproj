@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AcessoADados1\AcessoADados.csproj" />
+    <ProjectReference Include="..\ClassLibrary1\Dominio.csproj" />
+  </ItemGroup>
+
+</Project>
